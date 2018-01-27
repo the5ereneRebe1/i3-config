@@ -1,0 +1,4 @@
+{
+    "cmd": ["/opt/anaconda/anaconda2/bin/python2", "$file"],
+    "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+}
